@@ -1,4 +1,4 @@
-# python---practice
+# Simple_calculator
 
 ## Projects
 -Simple Calculator
